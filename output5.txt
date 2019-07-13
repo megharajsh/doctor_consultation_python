@@ -1,0 +1,76 @@
+
+	--------- new patient entered ---------
+	Patient details: John, 55, 100455
+	Refreshed Queue:
+	100160, Surya
+	100357, Rishi
+	100455, John
+	100254, Ajay
+	----------------------------------
+
+	--------- new patient entered ---------
+	Patient details: John, 55, 100455
+	Refreshed Queue:
+	100160, Surya
+	100357, Rishi
+	100455, John
+	100254, Ajay
+	----------------------------------
+	-------------next patient --------------
+	 Next patient for consultation is: 100160, Surya
+	---------------------------------------------
+
+	--------- new patient entered ---------
+	Patient details: Pradeep, 45, 100545
+	Refreshed Queue:
+	100357, Rishi
+	100455, John
+	100254, Ajay
+	100545, Pradeep
+	----------------------------------
+
+	--------- new patient entered ---------
+	Patient details: Pradeep, 45, 100545
+	Refreshed Queue:
+	100357, Rishi
+	100455, John
+	100254, Ajay
+	100545, Pradeep
+	----------------------------------
+	-------------next patient --------------
+	 Next patient for consultation is: 100357, Rishi
+	---------------------------------------------
+
+	--------- new patient entered ---------
+	Patient details: Pradeep, 45, 100545
+	Refreshed Queue:
+	100357, Rishi
+	100455, John
+	100254, Ajay
+	100545, Pradeep
+	----------------------------------
+	-------------next patient --------------
+	 Next patient for consultation is: 100357, Rishi
+	---------------------------------------------
+	-------------next patient --------------
+	 Next patient for consultation is: 100455, John
+	---------------------------------------------
+
+	--------- new patient entered ---------
+	Patient details: Sandeep, 60, 100660
+	Refreshed Queue:
+	100660, Sandeep
+	100254, Ajay
+	100545, Pradeep
+	----------------------------------
+
+	--------- new patient entered ---------
+	Patient details: Sandeep, 60, 100660
+	Refreshed Queue:
+	100660, Sandeep
+	100254, Ajay
+	100545, Pradeep
+	----------------------------------
+	-------------next patient --------------
+	 Next patient for consultation is: 100660, Sandeep
+	---------------------------------------------

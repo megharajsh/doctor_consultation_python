@@ -1,0 +1,7 @@
+	--------- Initial Queue ---------
+	No of patients added: 3
+	Refreshed Queue:
+	100160, Surya
+	100357, Rishi
+	100254, Ajay
+	----------------------------------

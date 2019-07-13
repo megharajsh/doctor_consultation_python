@@ -1,0 +1,10 @@
+#Problem 2 - If an linked list has n elements, maximum nodes at a height h is => 1 + n/2^h ~ n/2^h. at every level, we are maxheapifyingdown which has complexity of
+h for each node. Therefore, total time complexity of one level is h* number of nodes at that level. Time complexity of one level = h * (n/2^h)
+Total levels for N nodes are 1 to log N(base 2).
+```
+log n             log n          ∞                                                               ∞
+Σ  n/2^h O(h) = O(nΣ h/2^h) = O(nΣ h/2^h) = O(n).  This uses the fact that given infinite series Σ i/2^i converges
+h=0                h=0           h=0                                                             i=0
+```
+
+#Problem 3 - For removal, time complexity for either max or min element in O(1), since it would be either head or tail of the list
